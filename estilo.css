@@ -24,5 +24,7 @@
     color: var(--cor-principal);
     padding: 1em;
     border-radius: 5px;
+    text-decoration: none;
+    display: block;
 
 }
