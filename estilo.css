@@ -44,3 +44,6 @@ body{
     border: 2px solid var(--cor-principal);
 }
 
+.container--caixa{
+    margin: 0 6em;
+}
